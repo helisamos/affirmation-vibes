@@ -79,3 +79,9 @@ body {
     height: 30px;
     vertical-align: middle;
 }
+
+/* Adjustments for the responsive background */
+body > img {
+    object-fit: contain;
+    object-position: center center;
+}
