@@ -80,8 +80,8 @@ body {
     vertical-align: middle;
 }
 
-/* Adjustments for the responsive background */
+/* Adjustments for the background image */
 body > img {
-    object-fit: contain;
+    object-fit: cover;
     object-position: center center;
 }
